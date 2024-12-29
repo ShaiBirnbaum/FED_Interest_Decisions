@@ -1,10 +1,11 @@
 **Project README**
 
 **1. Project Objetive**
-Predicting Federal Interest Decisions Based on Federal Reserve Speeches:
+POC for Predicting Federal Interest Decisions Based on Federal Reserve Speeches:
 
     1.1 Predict Interest Decisions from Comprehensive Speech Content
     1.2 Real-Time Prediction of Interest Decisions as Speech Progresses
+    1.3 Real-time Identification of Critical Interest Prediction Highlights
 
 **2. Database**
 
